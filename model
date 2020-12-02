@@ -1,0 +1,59 @@
+{
+  "_id": "5bd60f40a31f6b32772b07a7",
+  "name": "JS #2 Mixed questions",
+  "description": "Переменные, операторы сравнения",
+  "owner": "5b7366b42ffb85d6053b8649",
+  "active": true,
+  "githubSourceLink": "/",
+  "acceptableMistakes": 6,
+  "questions": [
+    {
+      "_id": "5bd61374a31f6b32772b07a9",
+      "description": "Внимательно проверьте в jsbin если не уверены.",
+      "name": "Выберите допустимые имена переменных, которые не вызовут SyntaxError",
+      "owner": "5b7366b42ffb85d6053b8649",
+      "answerType": "multi",
+      "variants": [
+        {
+          "_id": "5bd61374a31f6b32772b07b3",
+          "name": "currentTemperature",
+          "correct": true
+        },
+        {
+          "_id": "5bd61374a31f6b32772b07b2",
+          "name": "TemperatureCurrent",
+          "correct": true
+        },
+        {
+          "_id": "5bd61374a31f6b32772b07b1",
+          "name": "temperaturecurrent",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "_id": "5bd61374a31f6b32772b07a9",
+      "description": "Внимательно проверьте в jsbin если не уверены.",
+      "name": "Выберите допустимые имена переменных, которые не вызовут SyntaxError",
+      "owner": "5b7366b42ffb85d6053b8649",
+      "answerType": "multi",
+      "variants": [
+        {
+          "_id": "5bd61374a31f6b32772b07b3",
+          "name": "currentTemperature",
+          "correct": true
+        },
+        {
+          "_id": "5bd61374a31f6b32772b07b2",
+          "name": "TemperatureCurrent",
+          "correct": true
+        },
+        {
+          "_id": "5bd61374a31f6b32772b07b1",
+          "name": "temperaturecurrent",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
